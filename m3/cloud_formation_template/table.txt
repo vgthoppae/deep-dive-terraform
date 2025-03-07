@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------
+|                                     DescribeStacks                                     |
++-------------------------------------+--------------------------------------------------+
+|  PublicRouteTable                   |  rtb-01bd1fa350a28b4fd                           |
+|  PublicSubnet2RouteTableAssociation |  subnet-0477227624ef1195a/rtb-01bd1fa350a28b4fd  |
+|  InternetGateway                    |  igw-0304426491a3162f9                           |
+|  DefaultPublicRoute                 |  rtb-01bd1fa350a28b4fd_0.0.0.0/0                 |
+|  VPC                                |  vpc-0731a061630c3f975                           |
+|  PublicSubnet2                      |  subnet-0477227624ef1195a                        |
+|  NoIngressSecurityGroup             |  sg-01b4edfb7b0801ea3                            |
+|  PublicSubnet1                      |  subnet-0ffc450432719efa3                        |
+|  PublicSubnet1RouteTableAssociation |  subnet-0ffc450432719efa3/rtb-01bd1fa350a28b4fd  |
++-------------------------------------+--------------------------------------------------+
